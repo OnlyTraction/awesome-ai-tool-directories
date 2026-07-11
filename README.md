@@ -21,6 +21,7 @@ If you find this useful, a ⭐ helps others discover it.
 
 ## 🌱 Newer & Specialised AI Directories
 
+- **[ToolMagpie](https://toolmagpie.com)** — Live-verified AI **agent** directory (customer service, sales, coding, MCP servers, automation); auto-flags dead tools
 - **[Aitoolboard](https://aitoolboard.com)** _(DR 16)_ — AI tools directory
 - **[Aitogrow](https://aitogrow.com)** _(DR 15)_ — AI tools directory
 - **[Free AI Tools Directory](https://free-ai-tools-directory.com)** _(DR 12)_ — Listing platform for AI tools
