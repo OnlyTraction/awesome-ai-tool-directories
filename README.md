@@ -35,6 +35,7 @@ If you find this useful, a ⭐ helps others discover it.
 - **[Findmyaitool](https://findmyaitool.com)** — AI tools directory
 - **[Aitools](https://aitools.fyi)** — AI tools directory
 - **[Aitoolsdirectory](https://aitoolsdirectory.com)** — AI tools directory
+- **[AI Tools Radar](https://aitoolsradar.com)** — AI tools directory and industry news platform
 - **[Toolscout](https://toolscout.ai)** — AI tools directory
 - **[Aitoptools](https://aitoptools.com)** _(from $299)_ — AI tools directory
 - **[Aitoolguru](https://aitoolguru.com)** — AI tools directory
