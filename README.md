@@ -17,6 +17,7 @@ If you find this useful, a ⭐ helps others discover it.
 ## 📈 Mid-Authority AI Directories (DR 20–49)
 
 - **[Insidr.ai](https://insidr.ai)** _(DR 48)_ — AI tools directory with newsletter reach
+- **[Public Prompts](https://www.publicprompts.art/)** _(DR 43, checked 2026-10-03)_ — Paid owner review: US$19.99 once + tax; published tool links nofollow. [Submit](https://www.publicprompts.art/submit).
 - **[Whatthe AI](https://whattheai.tech)** _(DR 34)_ — AI tools directory
 
 ## 🌱 Newer & Specialised AI Directories
