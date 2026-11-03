@@ -26,6 +26,7 @@ If you find this useful, a ⭐ helps others discover it.
 - **[Free AI Tools Directory](https://free-ai-tools-directory.com)** _(DR 12)_ — Listing platform for AI tools
 - **[Infrabase](https://infrabase.ai)** _(DR 5)_ — AI infrastructure directory
 - **[OpenTools AI](https://opentools.ai)** — Large AI tool directory with filtering
+- **[MeetNewAI](https://meetnewai.com)** — Free bilingual AI tools, games & MCP directory organized by job-to-be-done
 - **[Toolify.ai](https://toolify.ai)** _($99)_ — AI software catalog
 - **[Top AI](https://topai.tools)** — AI tools directory
 - **[Domore](https://domore.ai)** — AI tools directory
